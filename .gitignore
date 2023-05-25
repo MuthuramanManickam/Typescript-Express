@@ -1,0 +1,6 @@
+# folder ignore
+/node_modules
+
+# file ignore
+.package-lock.json
+.tsconfig.json
